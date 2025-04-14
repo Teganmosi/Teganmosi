@@ -25,6 +25,6 @@ There’s more in the works—some useful, some silly, all experimental. 👨�
 ### 📫 Let's Connect  
 - [LinkedIn](www.linkedin.com/in/mosijobin-alabi-2b5795224) – Come say hi!  
 - [Twitter](https://x.com/Teganmosi_) – Random thoughts, code drops, and hot takes  
-- [Resume](file:///C:/Users/HP-1/Downloads/Alabi%20mosijoin%20resume%20(1).pdf) – My official story  
+- [Resume](https://drive.google.com/file/d/1sgsTsptHo1DHouUobGsv1k1YQijLxKeH/view?usp=sharing) – My official story  
 
 Pull up a repo, fork something cool, or just lurk—either way, welcome to my digital lab. Let's vibe over some code sometime! 🎶
