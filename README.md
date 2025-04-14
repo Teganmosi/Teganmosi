@@ -1,14 +1,30 @@
 ## Heyy, you found me! 😊  
 
-I’m Alabi Mosijobin, a Machine Learning Engineer who’s basically *living* for this stuff. I eat, breathe, and dream machine learning—not because I have to, but because it’s my kind of fun! I love tinkering with AI, building things that surprise and delight. Here’s some of my best playground projects:  
-- **[BeatBlaster](link-to-project-1)**: An AI that remixes beats based on your mood—pure fun!  
-- **[ChatterBox](link-to-project-2)**: A quirky chatbot that roasts you just right—try it!  
+I’m **Alabi Mosijobin**, a Machine Learning Engineer who’s *living and breathing* this AI life.  
+From fine-tuning large language models to building quirky chatbots and deep learning systems—I’ve been hands-on with it all. Whether it's supervised learning, generative AI, or experimenting with the latest in deep learning, I love building things that *actually work* (and sometimes things that are just plain fun).
 
-While you’re here, feel free to roam around my repos—peek at whatever catches your eye! I’ve got a ton of ideas brewing, and I’m always up for sharing the magic.  
+### 🧠 What I Do  
+I've worked across a range of AI domains:  
+- 🦙 **LLMs** – Fine-tuning, prompt engineering, and deployment  
+- 🎨 **Generative AI** – Text, images, music—you name it  
+- 🧠 **Deep Learning** – CNNs, RNNs, GANs, Transformers  
+- 📊 **Supervised Learning** – Classification, regression, and everything in between  
+- ⚙️ **MLOps** – Model deployment, Gradio, Streamlit, and automation  
 
-### Say Hi!  
-- [LinkedIn](your-linkedin-url) | Let’s connect  
-- [Twitter](your-twitter-url) | My random thoughts  
-- [Resume](your-resume-url) | The official rundown  
+### 🚀 Some Fun Projects  
+Here’s a few AI experiments I’ve cooked up:  
+- **[BeatBlaster](link-to-project-1)**: An AI DJ that remixes tracks based on your mood—pure vibes.  
+- **[ChatterBox](link-to-project-2)**: A sarcastic chatbot that’s got jokes (and maybe some wisdom).  
+- **[SketchSorcery](link-to-sketchsorcery)**: Turn your doodles into stunning AI-generated art.  
+- **[NewsSleuth](link-to-project)**: A fake news detector built using NLP and ML models.  
 
-Stick around, explore, and let’s vibe over some code sometime! 🎶
+There’s more in the works—some useful, some silly, all experimental. 👨🏽‍💻
+
+---
+
+### 📫 Let's Connect  
+- [LinkedIn](www.linkedin.com/in/mosijobin-alabi-2b5795224) – Come say hi!  
+- [Twitter](https://x.com/Teganmosi_) – Random thoughts, code drops, and hot takes  
+- [Resume](your-resume-url) – My official story  
+
+Pull up a repo, fork something cool, or just lurk—either way, welcome to my digital lab. Let's vibe over some code sometime! 🎶
