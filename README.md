@@ -12,6 +12,3 @@
 
 ---
 
-## 📫 Connect with Me  
-- LinkedIn: [Your Link]  
-- Website: [Your Link]  
