@@ -1,97 +1,142 @@
-# Hi, I'm Alabi 👋
+<div align="center">
 
-AI Engineer & Fullstack Product Developer building production-ready AI systems, intelligent automation platforms, and scalable fullstack applications.
+# Alabi Obin
 
-I specialize in:
-- AI Engineering
-- Backend Systems
-- Fullstack Development
-- Agentic AI Workflows
-- Voice AI Pipelines
-- ML-Powered Products
-- Automation Infrastructure
+### AI Engineer • Fullstack Product Developer • Systems Builder
 
----
+Building production-ready AI systems, intelligent automation platforms, conversational AI experiences, and scalable fullstack products.
 
-## Currently Working On
+<br/>
 
-- Enterprise AI systems at Sproxil
-- Voice-to-voice conversational AI pipelines
-- AI-powered healthcare and operations tools
-- Trading infrastructure and ML-driven systems
-- Fullstack SaaS products and internal platforms
+[Portfolio](#) • [LinkedIn](#) • [Email](mailto:your-email@example.com)
+
+</div>
 
 ---
 
-## Featured Projects
+## About Me
 
-### AISHA Chat Platform
-Enterprise AI assistant platform with conversational workflows, multilingual support, analytics, and intelligent automation systems.
+I build AI-powered systems and fullstack platforms focused on real-world deployment, automation, and intelligent user experiences.
 
-### AISHA Dashboard
-Operational analytics dashboard for monitoring AI consultations, user activity, reporting, and system performance.
-
-### AISHA Consultation Portal
-Fullstack consultation management platform designed for AI-assisted user interactions and workflow handling.
-
-### Sproxil RDT AI
-Computer vision system for AI-assisted rapid diagnostic test interpretation using machine learning and inference pipelines.
-
-### Trading Bot
-Algorithmic trading infrastructure with Alpaca API integrations, automated execution, market analysis, and strategy automation.
-
-### AI Therapist
-Voice-enabled conversational AI assistant using Whisper, LLM pipelines, and TTS systems for reflective interactions.
-
-### CurrencyGuard
-Forex intelligence and monitoring platform focused on predictive analytics and market awareness.
-
-### Aria
-AI-powered productivity and workflow management platform for intelligent task handling and automation.
+My work spans:
+- Enterprise AI systems
+- Conversational AI
+- Voice-to-voice pipelines
+- ML-powered products
+- Internal operations platforms
+- AI-assisted healthcare systems
+- Trading infrastructure & automation
 
 ---
 
-## Tech Stack
+# Experience
+
+## AI/ML Engineer — Sproxil
+**Enterprise AI Systems • Healthcare AI • Fullstack Platforms**
+
+Worked on multiple production-facing AI systems and operational platforms including:
+- AISHA conversational AI platform
+- AI consultation systems
+- AI operations dashboards
+- AI-assisted healthcare workflows
+- Internal analytics and management platforms
+- Voice AI integrations
+- Backend infrastructure and APIs
+
+**Tech:** Python, FastAPI, OpenAI APIs, PostgreSQL, Docker, React
+
+---
+
+## AI Engineer — Tiiago
+**HR-Tech AI • Conversational AI • Automation**
+
+Contributed to intelligent hiring systems including:
+- AI Resume Analysis System
+- AI Interview Agent (Version 1)
+- Candidate evaluation workflows
+- AI-powered recruitment automation
+
+**Tech:** Python, LLM APIs, FastAPI, React, AI Workflows
+
+---
+
+## Founder — NeuroLink Labs
+**AI Products • Automation • Product Engineering**
+
+Building AI-powered products, automation systems, and scalable digital platforms focused on practical real-world applications.
+
+---
+
+# Featured Projects
+
+## AISHA Chat Platform
+Enterprise conversational AI system with intelligent workflows, multilingual support, analytics, and operational integrations.
+
+## Sproxil RDT AI
+Computer vision system for AI-assisted rapid diagnostic test interpretation and healthcare support.
+
+## AISHA Dashboard
+Operational analytics and management dashboard for AI consultation monitoring and reporting.
+
+## AI Interview Agent (V1)
+Conversational AI system for automated interview interactions and candidate screening.
+
+## Trading Bot
+Algorithmic trading infrastructure using Alpaca APIs with automation, strategy execution, and market analysis pipelines.
+
+## AI Therapist
+Voice-enabled conversational AI assistant using Whisper, LLM orchestration, and TTS pipelines.
+
+## CurrencyGuard
+Forex monitoring and predictive analytics platform for market intelligence and risk awareness.
+
+## Aria
+AI-powered productivity and workflow management platform.
+
+---
+
+# Tech Stack
 
 ### AI & Machine Learning
-Python • OpenAI APIs • LangChain • Whisper • Vector Databases • Scikit-learn • Pandas
+Python • OpenAI APIs • LangChain • Whisper • Scikit-learn • Vector Databases
 
 ### Backend Engineering
-FastAPI • Flask • Django • Node.js • REST APIs • WebSockets
+FastAPI • Flask • Django • REST APIs • WebSockets • Node.js
 
 ### Frontend Development
-React • Next.js • TypeScript • Tailwind CSS • HTML • JavaScript
+React • Next.js • TypeScript • Tailwind CSS
 
-### Databases & Infrastructure
-PostgreSQL • MySQL • Redis • Docker • GitHub Actions
-
----
-
-## Experience
-
-### AI/ML Engineer — Sproxil
-Building enterprise AI systems, intelligent healthcare tools, analytics platforms, and conversational AI solutions.
-
-### Founder — NeuroLink Labs
-Developing AI-powered products, automation systems, and scalable technology solutions.
+### Infrastructure & Databases
+Docker • PostgreSQL • MySQL • Redis • GitHub Actions
 
 ---
 
-## GitHub Focus
+# Current Focus
+
+- Enterprise AI systems
+- Conversational AI agents
+- Voice-to-voice AI pipelines
+- AI automation infrastructure
+- Fullstack SaaS platforms
+- ML-driven trading systems
+
+---
+
+# GitHub Focus
 
 This GitHub contains:
-- AI systems
+- Production-grade AI systems
 - Fullstack applications
 - Automation tools
 - ML experiments
 - Trading infrastructure
-- Production-grade backend services
+- Backend services
 - Product-focused engineering projects
 
 ---
 
-## Connect
+<div align="center">
 
-- Portfolio: Coming Soon
-- LinkedIn: Coming Soon
-- Email: your-email@example.com
+### Building intelligent systems that solve real-world problems.
+
+</div>
