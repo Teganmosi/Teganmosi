@@ -1,14 +1,14 @@
 <div align="center">
 
-# Alabi Obin
+# Alabi Mosijobin
 
-### AI Engineer • Fullstack Product Developer • Systems Builder
+### AI Engineer • Backend Developer
 
 Building production-ready AI systems, intelligent automation platforms, conversational AI experiences, and scalable fullstack products.
 
 <br/>
 
-[Portfolio](#) • [LinkedIn](#) • [Email](mailto:your-email@example.com)
+[Portfolio](#) • [LinkedIn](#) • [Email](obinalabi@gmail.com)
 
 </div>
 
